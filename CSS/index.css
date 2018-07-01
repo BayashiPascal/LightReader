@@ -1,0 +1,61 @@
+/* ============= index.css =========== */
+
+
+#divView {
+  width: 75%;
+  max-width: 1000px;
+  height: 500px;
+  display: block;
+  margin: auto;
+}
+
+#divFilter {
+  width: 75%;
+  max-width: 1000px;
+  height: 350px;
+  display: block;
+  margin: auto;
+  margin-top: 5px;
+}
+
+#divWBDBEditorLightReaderFilter {
+  width: 380px;
+}
+
+#divShowUrl {
+  width: 400px;
+  margin: auto;
+}
+
+#divAddUrl {
+  width: 400px;
+}
+
+#divShowUrlContent {
+  
+}
+
+#selUrl {
+  width: 380px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#inpAddUrl {
+  width: 300px;
+}
+
+#divAddUrl {
+  height: 35px;
+  padding-top: 5px;
+}
+
+#imgAddUrl {
+  width: 30px;
+  vertical-align: middle;
+}
+
+#imgDelUrl {
+  width: 30px;
+  vertical-align: middle;
+}
