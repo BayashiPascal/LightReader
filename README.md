@@ -1,7 +1,7 @@
 # LightReader
 A WebApp to bookmark only the useful content of pages on several websites of news.
 
-Developped to be able to read articles on my old smartphone which dies from the terabyte of crap surrounding the few kilobyte of text which really interest me on nowadays news website.
+Developped to be able to read articles on my old smartphone which dies from the terabyte of crap surrounding the few kilobyte of text which really interest me on nowadays news websites.
 
 How to use it:
 
